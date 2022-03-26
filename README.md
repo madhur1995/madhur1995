@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @madhur1995
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Science
+- 👀 I’m Java Developer
 
 <!---
 madhur1995/madhur1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
